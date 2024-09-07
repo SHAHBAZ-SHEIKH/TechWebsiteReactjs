@@ -1,0 +1,92 @@
+.carousel {
+    margin-top: 70px;
+    height: auto !important;
+
+}
+.carousel-inner{
+    height: 100% !important;
+}
+
+.courserContent {
+    position: relative;
+    flex-wrap: wrap;
+    width: 100%;
+
+}
+
+.carousel-inner {
+    position: relative;
+    width: 100%;
+
+}
+
+.crouserItem {
+    color: #fff;
+
+    position: relative;
+    top: 70%;
+    transform: translateY(65%);
+    align-items: flex-start;
+    width: 50%;
+    margin: 0 150px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+
+}
+
+.heading {
+    padding: 0 12px;
+}
+
+.heading h1 {
+    font-size: 55px;
+    font-weight: 700;
+    color: #fff;
+}
+
+.headingBtn {
+    display: flex;
+    gap: 10px;
+    padding: 0 12px;
+
+}
+
+@media(max-width:1048px) {
+    .crouserItem {
+        width: 70%;
+        margin: 0;
+        position: relative;
+        top: 30%;
+        transform: translateY(40%);
+        align-items: flex-start;
+        justify-content: center;
+        align-items: center;
+        
+    }
+    .heading h1 {
+        font-size: 40px;
+        font-weight: 700;
+        color: #fff;
+    }
+
+    
+}
+
+@media (max-width: 768px) {
+    .crouserItem {  
+        width: 100%; 
+        display: flex; 
+        justify-content: center; 
+        align-items: center; 
+        transform: translateY(0);
+    }
+    .heading h1 {
+        font-size: 20px;
+        font-weight: 700;
+        color: #fff;    
+    }
+    .heading p{
+        font-size: 12px;
+    }
+}

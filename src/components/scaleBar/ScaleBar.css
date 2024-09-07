@@ -1,0 +1,61 @@
+.canditatos{
+    position: relative;
+    margin-bottom: 15px;
+    margin-top: 20px;
+}
+
+.canditatos .parcial{
+    display: inline-block;
+    width: 100%;
+    vertical-align:middle;
+}
+
+.canditatos .parcial .info{
+    position: relative;
+}
+
+.canditatos .parcial .info .name{
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-size: 17px;
+    font-weight: 700;
+    opacity: 0.9;
+    color: #232323;
+    
+}
+
+.canditatos .parcial .info .percetageNum{
+    position: absolute;
+    top: 0;
+    right: 0;
+    font-size: 17px;
+    font-weight: 700;
+    opacity: 0.9;
+    color: #232323;
+
+}
+.canditatos .parcial .progressBar{
+    position: relative;
+    width: 100%;
+    height: 7px;
+    margin: 30px 0 2px;
+    /* border-radius: 10px; */
+    background: rgba(0,0,0,0.5);
+}
+
+.canditatos .parcial .percentage{
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 7px;
+    /* border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px; */
+    transition: 3s all;
+    background: #FF3C00;
+    
+
+    
+}

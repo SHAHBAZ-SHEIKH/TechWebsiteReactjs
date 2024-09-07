@@ -1,0 +1,61 @@
+.main{
+    color: #FF3C00;
+    color: #232323;
+}
+
+.container{
+    margin-top: 40px;
+
+}
+.aboutContainer{
+    margin: 0 10px;
+    background-color: #fff;
+}
+.head{
+    font-size: 20px;
+    color: #232323;
+    font-weight: 500;
+}
+
+.mainlineDiv{
+    display: flex;
+    justify-content: flex-start;
+    padding: 0 8px;
+    align-items: center;
+    width: 100%;
+    gap: 5px;
+    margin-top: 15px;
+}
+
+.line1{
+    width: 15%;
+    height: 3px;
+    background-color: #FF3C00;
+}
+
+.aboutContent{
+    margin-top: 15px;
+}
+
+.abouthead{
+    font-size: 30px;
+    font-weight: 700;
+    color: #232323;
+    margin-top: 10px;
+}
+
+.abouthead h3{
+    font-size: 30px;
+    font-weight: 700;
+}
+.abouthead span{
+    color: #FF3C00;
+    font-weight: 700;
+}
+
+.abouthead p{
+    font-size: 15px;
+    color: gray;
+    margin-top: 15px;
+}
+

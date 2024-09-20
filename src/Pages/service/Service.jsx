@@ -12,12 +12,12 @@ function Service() {
             <Project/>
             <div className="container">
                 <div className="row">
-                    <ProjectCard title="Design Management" imagProject="../../public/assets/project1.jpg" />
-                    <ProjectCard title="Bussiness Management" imagProject="../../public/assets/project2.jpg" />
-                    <ProjectCard title="Design Management" imagProject="../../public/assets/project3.jpg" />
-                    <ProjectCard title="Bussiness Management" imagProject="../../public/assets/project4.jpg" />
-                    <ProjectCard title="Design Management" imagProject="../../public/assets/project5.jpg" />
-                    <ProjectCard title="Bussiness Management" imagProject="../../public/assets/project6.jpg" />
+                    <ProjectCard title="Design Management" imagProject="assets/project1.jpg" />
+                    <ProjectCard title="Bussiness Management" imagProject="assets/project2.jpg" />
+                    <ProjectCard title="Design Management" imagProject="assets/project3.jpg" />
+                    <ProjectCard title="Bussiness Management" imagProject="assets/project4.jpg" />
+                    <ProjectCard title="Design Management" imagProject="assets/project5.jpg" />
+                    <ProjectCard title="Bussiness Management" imagProject="assets/project6.jpg" />
                 </div>
             </div>
         </>

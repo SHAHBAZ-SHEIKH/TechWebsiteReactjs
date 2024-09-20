@@ -12,15 +12,15 @@ function Banner() {
             <div className="carousel-inner">
                 <div className="courserContent">
                     <div className="carousel-item active">
-                        <img src="../../public/assets/slider1.jpg" className="d-block w-100" alt="..." />
+                        <img src="assets/slider1.jpg" className="d-block w-100" alt="..." />
                     </div>
 
 
                     <div className="carousel-item">
-                        <img src="../../public/assets/slider2.jpg" className="d-block w-100" alt="..." />
+                        <img src="assets/slider2.jpg" className="d-block w-100" alt="..." />
                     </div>
                     <div className="carousel-item">
-                        <img src="../../public/assets/slider3.jpg" className="d-block w-100" alt="..." />
+                        <img src="assets/slider3.jpg" className="d-block w-100" alt="..." />
                     </div>
 
 

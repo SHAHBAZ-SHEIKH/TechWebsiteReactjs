@@ -34,9 +34,9 @@ function Home() {
 
       <div className="container">
         <div className="row">
-          <Service icon="fa-solid fa-microphone-slash" title="Software Development" imgservice="../../public/assets/service-1.jpg" />
-          <Service icon="fa-solid fa-laptop" title="Expertise Leadership" imgservice="../../public/assets/service-2-1.jpg" />
-          <Service icon="fa-solid fa-microphone-slash" title="Leadership Reality" imgservice="../../public/assets/service-3-1.jpg" />
+          <Service icon="fa-solid fa-microphone-slash" title="Software Development" imgservice="assets/service-1.jpg" />
+          <Service icon="fa-solid fa-laptop" title="Expertise Leadership" imgservice="assets/service-2-1.jpg" />
+          <Service icon="fa-solid fa-microphone-slash" title="Leadership Reality" imgservice="assets/service-3-1.jpg" />
         </div>
       </div>
 
@@ -45,12 +45,12 @@ function Home() {
       <Project/>
       <div className="container">
         <div className="row">
-          <ProjectCard title="Design Management" imagProject ="../../public/assets/project1.jpg" />
-          <ProjectCard title="Bussiness Management" imagProject ="../..//public/assets/project2.jpg" />
-          <ProjectCard title="Design Management" imagProject ="../..//public/assets/project3.jpg" />
-          <ProjectCard title="Bussiness Management" imagProject ="../..//public/assets/project4.jpg" />
-          <ProjectCard title="Design Management" imagProject ="../../public/assets/project5.jpg" />
-          <ProjectCard title="Bussiness Management" imagProject ="../../public/assets/project6.jpg" />
+          <ProjectCard title="Design Management" imagProject ="assets/project1.jpg" />
+          <ProjectCard title="Bussiness Management" imagProject ="assets/project2.jpg" />
+          <ProjectCard title="Design Management" imagProject ="assets/project3.jpg" />
+          <ProjectCard title="Bussiness Management" imagProject ="assets/project4.jpg" />
+          <ProjectCard title="Design Management" imagProject ="assets/project5.jpg" />
+          <ProjectCard title="Bussiness Management" imagProject ="assets/project6.jpg" />
         </div>
       </div>
       

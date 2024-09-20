@@ -1,0 +1,101 @@
+
+
+.softServiceHead{
+    background-color: #000;
+    position: relative;
+    width: 100%;
+    flex-wrap: wrap;
+    padding: 10px 20px;
+    
+
+}
+
+.sofitline{
+    background-color: #FF3C00;
+    width: 10%;
+    height: 3px;
+}
+
+.sofithead{
+    display: flex;
+    align-items: center;
+}
+
+.sofitChoose h3{
+    color: #fff;
+}
+
+.sofitChoose{
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.sofitChoose h4{
+    color: #fff;
+    font-weight: 600;
+    font-size: 25px;
+}
+
+.sofitChoose p{
+    font-size: 16px;
+    color: #fff;
+}
+
+.sofitChoose span{
+    color: #FF3C00;
+}
+.checkIcon{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 35px;
+    background-color: #FF3C00;
+    height: 25px;
+    border-radius: 100%;
+    color: #fff;
+}
+
+.checkIcon:hover{
+    background-color: #fff;
+    color: #FF3C00;
+}
+
+.checkIconMain{
+    display: flex;
+    gap: 10px;
+    width: 100%;
+}
+.checkHead{
+    display: flex;
+    gap: 10px;
+    color: #fff;
+    margin-top: 20px;
+    flex-direction: column;
+}
+
+.sofitImageService{
+    position: relative;
+    width: 100%;
+}
+.imgService{
+    width: 100%;
+}
+
+.imgService img{
+    width: 100%;
+}
+
+.playIcon{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 50px;
+    height: 50px;
+    background-color: #FF3C00;
+    border-radius: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+}

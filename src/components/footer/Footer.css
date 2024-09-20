@@ -1,0 +1,70 @@
+.footerMain{
+    background-color: rgba(37, 38, 40, 0.88);
+    padding: 10px 0;
+    margin-top: 10px;
+}
+
+.footerIcon{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.footerimg{
+    margin-top: 10px;
+}
+
+.footerimg p{
+    color: #fff;
+    margin-top: 10px;
+}
+
+.icon{
+    width: 30px;
+    height: 30px;
+    border: 1px solid #fff;
+    text-align: center;
+    border-radius: 50%;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+.icon:hover{
+    background-color: #FF3C00;
+    color: #fff;
+    transition: all 0.3s ease;
+}
+
+.footerHead2{
+    margin-top: 10px;
+}
+.footerMainHead h3{
+    color: #000;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.option{
+    color: #fff;
+}
+
+
+
+.addressIcon{
+    display: flex;
+    gap: 3px;
+}
+
+.contactMain h3{
+    color: #fff;
+}
+
+.addressIcon{
+    display: flex;
+    color: #fff;
+    gap: 3px;
+}

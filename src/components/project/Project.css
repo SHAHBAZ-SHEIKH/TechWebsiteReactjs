@@ -1,0 +1,43 @@
+
+.projectContent{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    
+}
+
+.projectHead1{
+    display: flex;
+    width: 100%;
+    gap: 10px;
+    align-items: center;
+    
+}
+
+.projectCard{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.projectLine{
+    width: 10%;
+    background-color: #FF3C00;
+    height: 3px;
+}
+.projectHead2 h3{
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.projectBtn{
+    display: flex;
+    gap: 15px;
+    flex-wrap: wrap;
+}
+
+@media(max-width: 768px){
+    .projectContent{
+        flex-wrap: wrap;
+    }
+}

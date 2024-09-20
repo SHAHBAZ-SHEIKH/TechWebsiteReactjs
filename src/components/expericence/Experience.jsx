@@ -10,8 +10,8 @@ function Experience() {
         <div className="container">
             <div className="row">
                 <div className="col-12 col-sm-12 col-md-6 col-lg-6">
-                    <div className="imgDiv">
-                        <img src="../../public/experience.png" alt="" />
+                    <div className="imgDivService">
+                        <img src="../../public/assets/experience.png" alt="" />
                     </div>
                 </div>
 

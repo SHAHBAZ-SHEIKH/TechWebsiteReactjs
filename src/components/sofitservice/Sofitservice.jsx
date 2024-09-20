@@ -66,7 +66,7 @@ function Sofitservice() {
                 <div className="col-12 col-sm-12 col-md-6 col-lg-6">
                     <div className="sofitImageService">
                         <div className="imgService">
-                            <img src="../../public/assets/sofitService.jpg" alt="" />
+                            <img src="assets/sofitService.jpg" alt="" />
                         </div>
 
                         <div className="playIcon">
